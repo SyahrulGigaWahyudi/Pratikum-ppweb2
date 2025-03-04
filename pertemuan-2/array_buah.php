@@ -29,4 +29,5 @@
     echo "<li>Buah index-" .$buah . "adalah" .$v . " ";
    }
    echo "</ul>";
+   
 ?>
